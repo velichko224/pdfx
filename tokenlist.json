@@ -1,0 +1,20 @@
+{
+  "name": "PDFX Token List",
+  "logoURI": "https://cdn.jsdelivr.net/gh/velichko224/pdfx/logo.png",
+  "timestamp": "2025-06-21T17:10:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0x7F5cfd4Dd6FA71289e60258569945b5f2d00917e",
+      "name": "PDFMagik",
+      "symbol": "PDFX",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/velichko224/pdfx/logo.png"
+    }
+  ]
+}
