@@ -2,54 +2,54 @@
 
 ![PDFX Logo](./logo.png)
 
-**$PDFX** — утилитарный токен экосистемы **PDFMagikBot**, созданный для активации функций, поощрения сообщества и использования внутри Telegram-бота.
+**$PDFX** is the utility token of the **PDFMagikBot** ecosystem — powering premium features, community rewards, and in-bot tools inside Telegram.
 
 ---
 
-## 🔑 Описание
+## 🔍 Description
 
-**$PDFX** — это токен, предназначенный для:
+**$PDFX** enables:
 
-- 🔓 Разблокировки премиум-функций в [@PDFMagikBot](https://t.me/PDFMagikBot)
-- 🎁 Участия в airdrop-акциях и программе лояльности
-- 📊 Голосования за новые функции в рамках сообщества
+- 🔓 Unlocking advanced features in [@PDFMagikBot](https://t.me/PDFMagikBot)
+- 🎁 Participating in airdrop and loyalty campaigns
+- 🗳 Voting and governance for upcoming community-driven features
 
 ---
 
-## 🗓 Roadmap and Key Milestones
+## 🗺 Roadmap & Key Milestones
 
-### ⏳ By August 1, 2025:
+### ⏳ By August 1, 2025
 
-- ✅ Встроенный интерфейс кошелька в PDFMagikBot для получения airdrop'ов
-- ✅ Ранние кампании по airdrop для активных пользователей
+- ✅ User wallet interface inside PDFMagikBot for airdrop distribution  
+- ✅ Early airdrop campaigns for active users and community contributors
 
-### ⛔️ By September 1, 2025:
+### ⛔️ By September 1, 2025
 
-- 🔐 Ограничение на покупку — максимум **0.1% от общего предложения** на один кошелёк (anti-whale)
-- 💱 Продажа токена открыта. Основные DEX-пулы будут объявлены позже
+- 🔐 Purchase limit: max **0.1%** of total supply per wallet (anti-whale protection)  
+- 💱 Token sale remains open — main DEX pools (PDFX/ETH) to be announced
 
-### 📅 Upcoming:
+### 📅 Coming Soon
 
-- 🧪 Запуск пулов PDFX/ETH на Uniswap и других DEX
-- 📲 Интеграция с TrustWallet, GeckoTerminal и другими агрегаторами
-- 🗳 Использование токена: стейкинг, премиум-доступ, голосование сообщества
+- 🧪 Launch of PDFX/ETH liquidity pools on Uniswap and other DEXes  
+- 📲 Integration with TrustWallet, GeckoTerminal, and price aggregators  
+- 🗳 Use cases: staking, premium access, and community voting
 
 ---
 
 ## 🔗 Official Resources
 
-- 📄 **Contract**: [`0x7F5cfd4Dd6FA71289e60258569945b5f2d00917e`](https://basescan.org/token/0x7F5cfd4Dd6FA71289e60258569945b5f2d00917e)
-- 🤖 **Bot**: [@PDFMagikBot](https://t.me/PDFMagikBot)
-- 🗞 **News**: [@pdfmagikbot_news](https://t.me/pdfmagikbot_news)
-- 💬 **Chat**: [PDFMagik Community](https://t.me/+jO9X-yyU3uM1YjU1)
+- 📄 **Contract**: [`0x7F5cfd4Dd6FA71289e60258569945b5f2d00917e`](https://basescan.org/token/0x7F5cfd4Dd6FA71289e60258569945b5f2d00917e)  
+- 🤖 **Bot**: [@PDFMagikBot](https://t.me/PDFMagikBot)  
+- 🗞 **News**: [@pdfmagikbot_news](https://t.me/pdfmagikbot_news)  
+- 💬 **Community Chat**: [Telegram Group](https://t.me/+jO9X-yyU3uM1YjU1)  
 - 💻 **GitHub**: [github.com/velichko224/pdfx](https://github.com/velichko224/pdfx)
 
 ---
 
-> ⚠️ **Внимание**: доверяйте только официальным ссылкам выше. Берегитесь фейковых airdrop-ов и мошенников!
+> ⚠️ **Attention**: Always verify sources. Trust only the official links above. Beware of scams and fake airdrops!
 
 ---
 
 ## 📜 License
 
-MIT License. См. файл [LICENSE](./LICENSE) для деталей.
+This project is licensed under the MIT License. See [LICENSE](./LICENSE) for more details.
